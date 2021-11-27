@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap");
+
+body {
+  background: hsl(217, 54%, 11%);
+  font-family: outfit;
+}
+.div {
+  position: absolute;
+}
+.nft {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  margin-bottom: auto;
+  border-style: solid;
+  border-width: 20px;
+  border-bottom-width: 250px;
+  border-radius: 20px;
+  border-color: hsl(216, 50%, 16%);
+}
+h2 {
+  color: white;
+  position: relative;
+  top: -250px;
+  right: -610px;
+}
+.description {
+  font-weight: 300;
+  color: rgba(219, 245, 255, 0.815);
+  width: 300px;
+  position: relative;
+  top: -250px;
+  right: -610px;
+}
+.balance {
+  color: cyan;
+  position: relative;
+  top: -280px;
+  right: -625px;
+}
+
+.icon1 {
+  position: relative;
+  top: -240px;
+  right: -610px;
+}
+
+.tempo {
+  font-weight: 300;
+  color: rgba(219, 245, 255, 0.815);
+  position: relative;
+  top: -355px;
+  right: -810px;
+}
+
+.icon2 {
+  position: relative;
+  top: -315px;
+  right: -790px;
+}
+
+.line {
+  color: hsl(215, 32%, 27%);
+  position: relative;
+  top: -360px;
+  right: -600px;
+}
+.owner {
+  color: whitesmoke;
+  position: relative;
+  top: -410px;
+  right: -660px;
+}
+
+.owner2 {
+  font-weight: 900;
+  color: white;
+  position: relative;
+  top: -446px;
+  right: -745px;
+}
+
+.avatar {
+  width: 30px;
+  border: white;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 20px;
+  position: relative;
+  top: -360px;
+  right: -610px;
+}
